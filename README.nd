@@ -1,10 +1,17 @@
 # myFirstwork
 Your first task: create a new repository, create a README.nd file and upload another file.
-
 You can find a playlist of videos about git by [link](https://www.youtube.com/watch?v=VJm_AjiTEEc)
-
-## Front_End Developer stack:
-
+## Front_end Developer stack:
 * html
 ﻿﻿* CSS
 ﻿﻿* JavaScript
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple HTML Page</title>
+</head>
+<body>
+  <h1>Welcome to my webpage</h1>
+  <p>This is a simple HTML page.</p>
+</body>
+</html>
