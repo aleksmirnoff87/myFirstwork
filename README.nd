@@ -9,8 +9,8 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 <html>
 <head>
   <title>Simple HTML Page</title>
-</Head>
 <body>
+</Head>
   <h1>Welcome to my webpage</h1>
   <p>This is a simple HTML page.</p>
 </Body>
